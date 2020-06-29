@@ -1,0 +1,9 @@
+Install pymemcache
+
+pip3 install --user pymemcache
+
+sudo apt-get install memcached
+
+sudo service memcached start
+
+sudo service memcached stop
